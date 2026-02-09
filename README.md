@@ -1,8 +1,8 @@
 # :video\_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![GitHub](https://img.shields.io/static/v1?label=Code\&message=GitHub\&color=blue\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets) ⭐ 994 | 🐛 2 | 📅 2025-11-17
+[![GitHub](https://img.shields.io/static/v1?label=Code\&message=GitHub\&color=blue\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets) ⭐ 995 | 🐛 2 | 📅 2025-11-17
 [![CC-BY-4.0 license](https://img.shields.io/static/v1?label=License\&message=CC-BY-4.0\&color=blue\&style=flat-square)](origin/LICENSE)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/leomaurodesenv/game-datasets/continuous-integration.yml?label=Build\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets/actions/workflows/continuous-integration.yml) ⭐ 994 | 🐛 2 | 📅 2025-11-17
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/leomaurodesenv/game-datasets/continuous-integration.yml?label=Build\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets/actions/workflows/continuous-integration.yml) ⭐ 995 | 🐛 2 | 📅 2025-11-17
 
 In computer science, Artificial Intelligence (AI) is intelligence demonstrated by machines. Its definition, AI research as the study of "intelligent agents": any device that perceives its environment and takes actions that achieving its goals *Russell et. al (2016)*.
 
@@ -68,8 +68,8 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Malmo](https://github.com/Microsoft/malmo) ⭐ 4,247 | 🐛 171 | 🌐 Java | 📅 2025-09-03 - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 * [Retro Contest](https://github.com/openai/retro) ⭐ 3,563 | 🐛 61 | 🌐 C | 📅 2024-02-22 - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
-* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,770 | 🐛 483 | 🌐 C++ | 📅 2026-02-06 - Roguelike adventure.
-* [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 1,971 | 🐛 36 | 🌐 C++ | 📅 2026-02-08 - Doom game competition.
+* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,770 | 🐛 486 | 🌐 C++ | 📅 2026-02-08 - Roguelike adventure.
+* [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 1,971 | 🐛 36 | 🌐 C++ | 📅 2026-02-09 - Doom game competition.
 * [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,752 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-01-22 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 * [qengine](https://github.com/klaussilveira/qengine) ⭐ 880 | 🐛 5 | 🌐 C | 📅 2026-01-29 - Retro game engine.
 * [Wargus](https://github.com/Wargus/wargus) ⭐ 404 | 🐛 68 | 🌐 C | 📅 2025-12-15 - Real-time strategy game. [Website](https://wargus.github.io/).
@@ -102,13 +102,13 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 5,842 | 🐛 1 | 🌐 Java | 📅 2026-02-05 - Improved Pixel Dungeon.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 5,845 | 🐛 1 | 🌐 Java | 📅 2026-02-05 - Improved Pixel Dungeon.
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,844 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
-* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,736 | 🐛 34 | 🌐 Kotlin | 📅 2026-02-06 - Gamify your life.
+* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,737 | 🐛 34 | 🌐 Kotlin | 📅 2026-02-09 - Gamify your life.
 
 ### Web
 
-* [Duck Hunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 617 | 🐛 11 | 🌐 JavaScript | 📅 2022-12-10 - Shooting game in ducks. [Play](http://duckhuntjs.com/).
+* [Duck Hunt](https://github.com/MattSurabian/DuckHunt-JS) ⭐ 616 | 🐛 11 | 🌐 JavaScript | 📅 2022-12-10 - Shooting game in ducks. [Play](http://duckhuntjs.com/).
 * [Infinite Mario Bros](https://github.com/robertkleffner/mariohtml5) ⭐ 520 | 🐛 18 | 🌐 JavaScript | 📅 2022-12-06 - Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html).
 * [Onslaught! Arena](https://github.com/lostdecade/onslaught_arena) ⭐ 202 | 🐛 3 | 🌐 JavaScript | 📅 2017-04-04 - Fight off hordes of medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/).
 * [Digger](https://github.com/lutzroeder/digger) ⚠️ Archived - Boulderdash game.
@@ -243,9 +243,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ## Miscellaneous
 
-* [Gym OpenAI](https://github.com/openai/gym) ⭐ 37,021 | 🐛 127 | 🌐 Python | 📅 2024-10-11 - Game toolkit for reinforcement learning algorithms.
+* [Gym OpenAI](https://github.com/openai/gym) ⭐ 37,024 | 🐛 127 | 🌐 Python | 📅 2024-10-11 - Game toolkit for reinforcement learning algorithms.
 * [Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived - Popular videos games hosted in GitHub.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,891 | 🐛 7 | 📅 2026-02-05 - Collection of open-source games.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,890 | 🐛 7 | 📅 2026-02-05 - Collection of open-source games.
 * [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,062 | 🐛 5 | 📅 2025-06-03 - Games to teach programming language.
 * [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,432 | 🐛 1 | 📅 2026-01-12 - Technologies related to anime, comic and games.
 * [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 96 | 🐛 2 | 📅 2025-06-10 - Competitiosn using video games.
