@@ -67,11 +67,11 @@ API is *"a set of functions and procedures allowing the creation of applications
 ## Artificial Intelligence
 
 * [Malmo](https://github.com/Microsoft/malmo) ⭐ 4,247 | 🐛 171 | 🌐 Java | 📅 2025-09-03 - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
-* [Retro Contest](https://github.com/openai/retro) ⭐ 3,562 | 🐛 61 | 🌐 C | 📅 2024-02-22 - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
-* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,771 | 🐛 489 | 🌐 C++ | 📅 2026-02-08 - Roguelike adventure.
+* [Retro Contest](https://github.com/openai/retro) ⭐ 3,561 | 🐛 61 | 🌐 C | 📅 2024-02-22 - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
+* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,771 | 🐛 493 | 🌐 C++ | 📅 2026-02-12 - Roguelike adventure.
 * [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 1,974 | 🐛 35 | 🌐 C++ | 📅 2026-02-11 - Doom game competition.
-* [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,752 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2026-02-09 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
-* [qengine](https://github.com/klaussilveira/qengine) ⭐ 882 | 🐛 5 | 🌐 C | 📅 2026-01-29 - Retro game engine.
+* [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,752 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-02-11 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
+* [qengine](https://github.com/klaussilveira/qengine) ⭐ 881 | 🐛 5 | 🌐 C | 📅 2026-02-11 - Retro game engine.
 * [Wargus](https://github.com/Wargus/wargus) ⭐ 406 | 🐛 68 | 🌐 C | 📅 2025-12-15 - Real-time strategy game. [Website](https://wargus.github.io/).
 * [microRTS](https://github.com/santiontanon/microrts) ⭐ 338 | 🐛 4 | 🌐 Java | 📅 2025-08-11 - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2021-06-08.
 * [polyworld](https://github.com/polyworld/polyworld) ⭐ 200 | 🐛 3 | 🌐 C++ | 📅 2025-09-21 - Artificial life system.
@@ -102,9 +102,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 5,853 | 🐛 4 | 🌐 Java | 📅 2026-02-05 - Improved Pixel Dungeon.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 5,857 | 🐛 4 | 🌐 Java | 📅 2026-02-05 - Improved Pixel Dungeon.
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,845 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
-* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,737 | 🐛 33 | 🌐 Kotlin | 📅 2026-02-11 - Gamify your life.
+* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,739 | 🐛 33 | 🌐 Kotlin | 📅 2026-02-11 - Gamify your life.
 
 ### Web
 
@@ -209,7 +209,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 ### Related
 
 * [Steam Review Datasets](https://github.com/mulhod/steam_reviews) ⭐ 43 | 🐛 0 | 📅 2015-11-17 - Steam user reviews.
-* [Steam Game Data](https://github.com/CraigKelly/steam-data) ⭐ 33 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-01-13 - Combination of Steam API and Steam Spy.
+* [Steam Game Data](https://github.com/CraigKelly/steam-data) ⭐ 32 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2017-01-13 - Combination of Steam API and Steam Spy.
 * [Computer Games Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/computer-games-dataset) - Gaming World: A Comprehensive Computer Games Dataset.
 * [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) - Data from Play Store apps.
 * [JVC Game Reviews](https://www.kaggle.com/floval/jvc-game-reviews) - Video game data from [JeuxVideo.com](http://www.jeuxvideo.com/).
@@ -243,9 +243,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ## Miscellaneous
 
-* [Gym OpenAI](https://github.com/openai/gym) ⭐ 37,032 | 🐛 127 | 🌐 Python | 📅 2024-10-11 - Game toolkit for reinforcement learning algorithms.
+* [Gym OpenAI](https://github.com/openai/gym) ⭐ 37,033 | 🐛 127 | 🌐 Python | 📅 2024-10-11 - Game toolkit for reinforcement learning algorithms.
 * [Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived - Popular videos games hosted in GitHub.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,892 | 🐛 7 | 📅 2026-02-05 - Collection of open-source games.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,893 | 🐛 7 | 📅 2026-02-05 - Collection of open-source games.
 * [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,062 | 🐛 5 | 📅 2025-06-03 - Games to teach programming language.
 * [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,432 | 🐛 1 | 📅 2026-01-12 - Technologies related to anime, comic and games.
 * [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 96 | 🐛 2 | 📅 2025-06-10 - Competitiosn using video games.
