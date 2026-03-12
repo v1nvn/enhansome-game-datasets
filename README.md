@@ -1,8 +1,8 @@
 # :video\_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![GitHub](https://img.shields.io/static/v1?label=Code\&message=GitHub\&color=blue\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets) ⭐ 1,013 | 🐛 4 | 📅 2025-11-17
+[![GitHub](https://img.shields.io/static/v1?label=Code\&message=GitHub\&color=blue\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets) ⭐ 1,014 | 🐛 3 | 📅 2026-03-11
 [![CC-BY-4.0 license](https://img.shields.io/static/v1?label=License\&message=CC-BY-4.0\&color=blue\&style=flat-square)](origin/LICENSE)
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/leomaurodesenv/game-datasets/continuous-integration.yml?label=Build\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets/actions/workflows/continuous-integration.yml) ⭐ 1,013 | 🐛 4 | 📅 2025-11-17
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/leomaurodesenv/game-datasets/continuous-integration.yml?label=Build\&style=flat-square)](https://github.com/leomaurodesenv/game-datasets/actions/workflows/continuous-integration.yml) ⭐ 1,014 | 🐛 3 | 📅 2026-03-11
 
 In computer science, Artificial Intelligence (AI) is intelligence demonstrated by machines. Its definition, AI research as the study of "intelligent agents": any device that perceives its environment and takes actions that achieving its goals *Russell et. al (2016)*.
 
@@ -49,6 +49,7 @@ API is *"a set of functions and procedures allowing the creation of applications
 * [IGDB](https://www.igdb.com/api) - General information of games from any platform.
 * [Marvel Developer](https://developer.marvel.com/) - Information about Marvel's vast library of comics.
 * [metacritc](https://www.metacritic.com/game) - Game reviews and evaluation.
+* [NEXARDA](https://www.nexarda.com/api) - Games and price data.
 * [OpenCritic](https://www.opencritic.com) - Game reviews aggregator.
 * [OpenDota](https://www.opendota.com/) - Platform providing Dota 2 data.
 * [PandaScore](https://pandascore.co/) - Realtime eSports data.
@@ -68,9 +69,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 * [Malmo](https://github.com/Microsoft/malmo) ⭐ 4,255 | 🐛 171 | 🌐 Java | 📅 2025-09-03 - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 * [Retro Contest](https://github.com/openai/retro) ⭐ 3,571 | 🐛 61 | 🌐 C | 📅 2024-02-22 - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
-* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,792 | 🐛 506 | 🌐 C++ | 📅 2026-03-10 - Roguelike adventure.
+* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,792 | 🐛 507 | 🌐 C++ | 📅 2026-03-11 - Roguelike adventure.
 * [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 1,988 | 🐛 28 | 🌐 C++ | 📅 2026-03-04 - Doom game competition.
-* [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,756 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-02-11 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
+* [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,757 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-02-11 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 * [qengine](https://github.com/klaussilveira/qengine) ⭐ 886 | 🐛 5 | 🌐 C | 📅 2026-02-11 - Retro game engine.
 * [Wargus](https://github.com/Wargus/wargus) ⭐ 413 | 🐛 68 | 🌐 C | 📅 2026-03-02 - Real-time strategy game. [Website](https://wargus.github.io/).
 * [microRTS](https://github.com/santiontanon/microrts) ⭐ 344 | 🐛 5 | 🌐 Java | 📅 2025-08-11 - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2021-06-08.
@@ -102,9 +103,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 5,926 | 🐛 2 | 🌐 Java | 📅 2026-03-05 - Improved Pixel Dungeon.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 5,929 | 🐛 2 | 🌐 Java | 📅 2026-03-05 - Improved Pixel Dungeon.
 * [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,853 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
-* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,746 | 🐛 37 | 🌐 Kotlin | 📅 2026-03-10 - Gamify your life.
+* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,748 | 🐛 37 | 🌐 Kotlin | 📅 2026-03-10 - Gamify your life.
 
 ### Web
 
@@ -215,6 +216,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 * [JVC Game Reviews](https://www.kaggle.com/floval/jvc-game-reviews) - Video game data from [JeuxVideo.com](http://www.jeuxvideo.com/).
 * [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) - Projects details.
 * [Metacritic games](https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000) - Games data from [metacritc](https://www.metacritic.com).
+* [NEXARDA Franchises](https://www.nexarda.com/pages/complete-list-of-video-game-franchises) - Franchises data from [nexarda.com](https://www.nexarda.com).
+* [NEXARDA Games](https://www.nexarda.com/pages/complete-list-of-video-games) - Games data from [nexarda.com](https://www.nexarda.com).
+* [NEXARDA Studios](https://www.nexarda.com/pages/complete-list-of-video-game-studios) - Developers and publishers data from [nexarda.com](https://www.nexarda.com).
 * [Nintendo Games](https://www.kaggle.com/datasets/joebeachcapital/nintendo-games) - Nintendo games for all platforms scraped from [metacritc](https://www.metacritic.com).
 * [Over 13,000 Steam Games](https://www.kaggle.com/kingburrito666/over-13000-steam-games) - Prices of video games from Steam.
 * [PC Games Sales](https://www.kaggle.com/datasets/khaiid/most-selling-pc-games) - Dataset of the best selling PC games.
@@ -243,11 +247,11 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ## Miscellaneous
 
-* [Gym OpenAI](https://github.com/openai/gym) ⭐ 37,081 | 🐛 128 | 🌐 Python | 📅 2024-10-11 - Game toolkit for reinforcement learning algorithms.
+* [Gym OpenAI](https://github.com/openai/gym) ⭐ 37,084 | 🐛 128 | 🌐 Python | 📅 2024-10-11 - Game toolkit for reinforcement learning algorithms.
 * [Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived - Popular videos games hosted in GitHub.
-* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,913 | 🐛 7 | 📅 2026-03-04 - Collection of open-source games.
-* [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,072 | 🐛 2 | 📅 2026-02-26 - Games to teach programming language.
-* [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,432 | 🐛 1 | 📅 2026-02-27 - Technologies related to anime, comic and games.
+* [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,914 | 🐛 7 | 📅 2026-03-04 - Collection of open-source games.
+* [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,073 | 🐛 2 | 📅 2026-02-26 - Games to teach programming language.
+* [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,433 | 🐛 1 | 📅 2026-02-27 - Technologies related to anime, comic and games.
 * [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 95 | 🐛 2 | 📅 2025-06-10 - Competitiosn using video games.
 * [datasets-games](https://github.com/cncplyr/datasets-games) ⭐ 14 | 🐛 0 | 📅 2023-10-23 - Datasets from a variety of games.
 * [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
