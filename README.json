@@ -230,10 +230,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-03-11T23:58:58Z",
+            "last_commit": "2026-03-12T14:40:02Z",
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 2792
+            "stars": 2795
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2026-03-04T01:22:59Z",
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 1988
+            "stars": 1990
           }
         },
         {
@@ -485,10 +485,10 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-03-10T17:20:07Z",
+            "last_commit": "2026-03-12T04:26:20Z",
             "owner": "HabitRPG",
             "repo": "habitica-android",
-            "stars": 1748
+            "stars": 1747
           }
         },
         {
@@ -514,7 +514,7 @@
             "last_commit": "2026-03-05T19:30:35Z",
             "owner": "00-Evan",
             "repo": "shattered-pixel-dungeon",
-            "stars": 5929
+            "stars": 5931
           }
         }
       ],
@@ -559,7 +559,7 @@
             "last_commit": "2022-12-06T14:57:34Z",
             "owner": "robertkleffner",
             "repo": "mariohtml5",
-            "stars": 520
+            "stars": 521
           }
         },
         {
@@ -1010,7 +1010,7 @@
             "last_commit": "2025-03-11T00:12:28Z",
             "owner": "googlecreativelab",
             "repo": "quickdraw-dataset",
-            "stars": 6680
+            "stars": 6682
           }
         },
         {
@@ -1217,7 +1217,7 @@
             "last_commit": "2026-03-04T23:31:10Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 2914
+            "stars": 2916
           }
         },
         {
@@ -1266,7 +1266,7 @@
             "last_commit": "2025-09-13T20:06:46Z",
             "owner": "leereilly",
             "repo": "games",
-            "stars": 24578
+            "stars": 24584
           }
         },
         {
@@ -1284,7 +1284,7 @@
             "last_commit": "2024-10-11T20:07:05Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37084
+            "stars": 37083
           }
         },
         {
@@ -1322,7 +1322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-12T04:07:45.695Z",
+    "last_updated": "2026-03-13T04:05:54.726Z",
     "original_repository": "leomaurodesenv/game-datasets",
     "source_repository": "v1nvn/enhansome-game-datasets",
     "source_repository_description": null,
