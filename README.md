@@ -67,10 +67,10 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ## Artificial Intelligence
 
-* [Malmo](https://github.com/Microsoft/malmo) ⭐ 4,255 | 🐛 171 | 🌐 Java | 📅 2025-09-03 - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
-* [Retro Contest](https://github.com/openai/retro) ⭐ 3,571 | 🐛 61 | 🌐 C | 📅 2024-02-22 - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
-* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,795 | 🐛 506 | 🌐 C++ | 📅 2026-03-12 - Roguelike adventure.
-* [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 1,990 | 🐛 28 | 🌐 C++ | 📅 2026-03-04 - Doom game competition.
+* [Malmo](https://github.com/Microsoft/malmo) ⭐ 4,254 | 🐛 171 | 🌐 Java | 📅 2025-09-03 - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
+* [Retro Contest](https://github.com/openai/retro) ⭐ 3,572 | 🐛 61 | 🌐 C | 📅 2024-02-22 - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
+* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,795 | 🐛 508 | 🌐 C++ | 📅 2026-03-13 - Roguelike adventure.
+* [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 1,991 | 🐛 28 | 🌐 C++ | 📅 2026-03-04 - Doom game competition.
 * [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,757 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-02-11 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 * [qengine](https://github.com/klaussilveira/qengine) ⭐ 886 | 🐛 5 | 🌐 C | 📅 2026-02-11 - Retro game engine.
 * [Wargus](https://github.com/Wargus/wargus) ⭐ 413 | 🐛 68 | 🌐 C | 📅 2026-03-02 - Real-time strategy game. [Website](https://wargus.github.io/).
@@ -103,9 +103,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 5,931 | 🐛 2 | 🌐 Java | 📅 2026-03-05 - Improved Pixel Dungeon.
-* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,853 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
-* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,747 | 🐛 37 | 🌐 Kotlin | 📅 2026-03-12 - Gamify your life.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 5,934 | 🐛 2 | 🌐 Java | 📅 2026-03-05 - Improved Pixel Dungeon.
+* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,852 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
+* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,747 | 🐛 37 | 🌐 Kotlin | 📅 2026-03-13 - Gamify your life.
 
 ### Web
 
@@ -247,11 +247,11 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ## Miscellaneous
 
-* [Gym OpenAI](https://github.com/openai/gym) ⭐ 37,083 | 🐛 128 | 🌐 Python | 📅 2024-10-11 - Game toolkit for reinforcement learning algorithms.
+* [Gym OpenAI](https://github.com/openai/gym) ⭐ 37,095 | 🐛 128 | 🌐 Python | 📅 2024-10-11 - Game toolkit for reinforcement learning algorithms.
 * [Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived - Popular videos games hosted in GitHub.
 * [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,916 | 🐛 7 | 📅 2026-03-04 - Collection of open-source games.
 * [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,073 | 🐛 2 | 📅 2026-02-26 - Games to teach programming language.
-* [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,433 | 🐛 1 | 📅 2026-02-27 - Technologies related to anime, comic and games.
+* [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,434 | 🐛 1 | 📅 2026-02-27 - Technologies related to anime, comic and games.
 * [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 95 | 🐛 2 | 📅 2025-06-10 - Competitiosn using video games.
 * [datasets-games](https://github.com/cncplyr/datasets-games) ⭐ 14 | 🐛 0 | 📅 2023-10-23 - Datasets from a variety of games.
 * [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
