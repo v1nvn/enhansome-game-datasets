@@ -233,7 +233,7 @@
             "last_commit": "2026-03-22T15:39:08Z",
             "owner": "crawl",
             "repo": "crawl",
-            "stars": 2817
+            "stars": 2818
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2019-07-23T09:09:27Z",
             "owner": "watabou",
             "repo": "pixel-dungeon",
-            "stars": 3860
+            "stars": 3861
           }
         },
         {
@@ -514,7 +514,7 @@
             "last_commit": "2026-03-23T15:22:47Z",
             "owner": "00-Evan",
             "repo": "shattered-pixel-dungeon",
-            "stars": 5967
+            "stars": 5974
           }
         }
       ],
@@ -1010,7 +1010,7 @@
             "last_commit": "2025-03-11T00:12:28Z",
             "owner": "googlecreativelab",
             "repo": "quickdraw-dataset",
-            "stars": 6689
+            "stars": 6690
           }
         },
         {
@@ -1217,7 +1217,7 @@
             "last_commit": "2026-03-21T00:45:34Z",
             "owner": "Calinou",
             "repo": "awesome-gamedev",
-            "stars": 2924
+            "stars": 2927
           }
         },
         {
@@ -1253,7 +1253,7 @@
             "last_commit": "2026-03-25T03:16:25Z",
             "owner": "michelpereira",
             "repo": "awesome-games-of-coding",
-            "stars": 2080
+            "stars": 2081
           }
         },
         {
@@ -1281,7 +1281,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2024-10-11T20:07:05Z",
+            "last_commit": "2026-03-26T23:13:27Z",
             "owner": "openai",
             "repo": "gym",
             "stars": 37116
@@ -1322,7 +1322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-03-26T04:28:01.579Z",
+    "last_updated": "2026-03-27T04:28:55.207Z",
     "original_repository": "leomaurodesenv/game-datasets",
     "source_repository": "v1nvn/enhansome-game-datasets",
     "source_repository_description": null,
