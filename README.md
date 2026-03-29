@@ -68,13 +68,13 @@ API is *"a set of functions and procedures allowing the creation of applications
 ## Artificial Intelligence
 
 * [Malmo](https://github.com/Microsoft/malmo) ⭐ 4,253 | 🐛 171 | 🌐 Java | 📅 2025-09-03 - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
-* [Retro Contest](https://github.com/openai/retro) ⭐ 3,578 | 🐛 61 | 🌐 C | 📅 2024-02-22 - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
-* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,819 | 🐛 516 | 🌐 C++ | 📅 2026-03-22 - Roguelike adventure.
-* [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 1,994 | 🐛 29 | 🌐 C++ | 📅 2026-03-04 - Doom game competition.
-* [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,759 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-02-11 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
+* [Retro Contest](https://github.com/openai/retro) ⭐ 3,579 | 🐛 61 | 🌐 C | 📅 2024-02-22 - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
+* [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) ⭐ 2,819 | 🐛 516 | 🌐 C++ | 📅 2026-03-29 - Roguelike adventure.
+* [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) ⭐ 1,997 | 🐛 29 | 🌐 C++ | 📅 2026-03-04 - Doom game competition.
+* [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) ⭐ 1,758 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-02-11 - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 * [qengine](https://github.com/klaussilveira/qengine) ⭐ 885 | 🐛 5 | 🌐 C | 📅 2026-02-11 - Retro game engine.
 * [Wargus](https://github.com/Wargus/wargus) ⭐ 411 | 🐛 68 | 🌐 C | 📅 2026-03-02 - Real-time strategy game. [Website](https://wargus.github.io/).
-* [microRTS](https://github.com/santiontanon/microrts) ⭐ 346 | 🐛 4 | 🌐 Java | 📅 2025-08-11 - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2021-06-08.
+* [microRTS](https://github.com/santiontanon/microrts) ⭐ 347 | 🐛 4 | 🌐 Java | 📅 2025-08-11 - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS) ⭐ 5 | 🐛 2 | 🌐 Java | 📅 2021-06-08.
 * [polyworld](https://github.com/polyworld/polyworld) ⭐ 203 | 🐛 3 | 🌐 C++ | 📅 2025-09-21 - Artificial life system.
 * [Text-Based Adventure AI Competition](https://github.com/Atkrye/IEEE-CIG-Text-Adventurer-Competition) ⭐ 29 | 🐛 3 | 🌐 Java | 📅 2018-07-27 - Text-adventure game competition. [Website](http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/).
 * [Dungeon and Cave Generation](https://github.com/sentientdesigns/constructive) ⭐ 20 | 🐛 0 | 🌐 Processing | 📅 2018-02-08 - Constructive generation methods for dungeons and levels.
@@ -103,9 +103,9 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
-* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 5,976 | 🐛 2 | 🌐 Java | 📅 2026-03-23 - Improved Pixel Dungeon.
-* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,862 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
-* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,753 | 🐛 36 | 🌐 Kotlin | 📅 2026-03-27 - Gamify your life.
+* [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) ⭐ 5,977 | 🐛 2 | 🌐 Java | 📅 2026-03-23 - Improved Pixel Dungeon.
+* [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) ⭐ 3,864 | 🐛 58 | 🌐 Java | 📅 2019-07-23 - Roguelike game.
+* [Habitica](https://github.com/HabitRPG/habitica-android) ⭐ 1,754 | 🐛 36 | 🌐 Kotlin | 📅 2026-03-27 - Gamify your life.
 
 ### Web
 
@@ -247,10 +247,10 @@ API is *"a set of functions and procedures allowing the creation of applications
 
 ## Miscellaneous
 
-* [Gym OpenAI](https://github.com/openai/gym) ⭐ 37,118 | 🐛 128 | 🌐 Python | 📅 2026-03-26 - Game toolkit for reinforcement learning algorithms.
+* [Gym OpenAI](https://github.com/openai/gym) ⭐ 37,117 | 🐛 128 | 🌐 Python | 📅 2026-03-26 - Game toolkit for reinforcement learning algorithms.
 * [Games on GitHub](https://github.com/leereilly/games) ⚠️ Archived - Popular videos games hosted in GitHub.
 * [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) ⭐ 2,929 | 🐛 8 | 📅 2026-03-21 - Collection of open-source games.
-* [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,081 | 🐛 1 | 📅 2026-03-25 - Games to teach programming language.
+* [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) ⭐ 2,082 | 🐛 1 | 📅 2026-03-25 - Games to teach programming language.
 * [Awesome ACG](https://github.com/soruly/awesome-acg) ⭐ 1,436 | 🐛 1 | 📅 2026-02-27 - Technologies related to anime, comic and games.
 * [Awesome Esports](https://github.com/strift/awesome-esports) ⭐ 97 | 🐛 2 | 📅 2025-06-10 - Competitiosn using video games.
 * [datasets-games](https://github.com/cncplyr/datasets-games) ⭐ 14 | 🐛 0 | 📅 2023-10-23 - Datasets from a variety of games.
